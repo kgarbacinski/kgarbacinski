@@ -2,7 +2,7 @@
 
 **Founder | Full-Stack & Web3 Developer**
 
-Building at the intersection of Web2 and Web3. 8+ years transforming ideas into production systems—from microservices architectures to DeFi protocols. Currently working on public goods funding at Golem Foundation and developing own brands.
+Building at the intersection of Web2 and Web3. 8+ years transforming ideas into production systems - from microservices architectures to DeFi protocols. Currently working on public goods funding at Golem Foundation and developing own brands.
 
 ### **→ [Full Portfolio & Story: caspercooks.tech](https://caspercooks.tech)**
 
