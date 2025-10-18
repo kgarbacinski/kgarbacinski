@@ -1,8 +1,8 @@
 # Kacper Garbacinski
 
-**Full-Stack & Web3 Developer | Tech Leader | Founder**
+**Founder | Full-Stack & Web3 Developer**
 
-Building at the intersection of Web2 and Web3. 8+ years transforming ideas into production systems—from microservices architectures to DeFi protocols. Currently working on public goods funding at Golem Foundation.
+Building at the intersection of Web2 and Web3. 8+ years transforming ideas into production systems—from microservices architectures to DeFi protocols. Currently working on public goods funding at Golem Foundation and developing own brands.
 
 ### **→ [Full Portfolio & Story: caspercooks.tech](https://caspercooks.tech)**
 
@@ -12,7 +12,7 @@ Building at the intersection of Web2 and Web3. 8+ years transforming ideas into 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kgarbacinski&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&hide_rank=true&hide=stars)](https://github.com/kgarbacinski)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kgarbacinski&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&hide_rank=true&hide=stars&include_all_commits=false)](https://github.com/kgarbacinski)
 
 </div>
 
@@ -65,13 +65,5 @@ Building at the intersection of Web2 and Web3. 8+ years transforming ideas into 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacper-garbacinski-3271b81a2/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kacpergarbacinski@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KGarbacinski)
-
-</div>
-
----
-
-<div align="center">
-
-*Building the future of Web3 and empowering developers through mentorship and innovation*
 
 </div>
