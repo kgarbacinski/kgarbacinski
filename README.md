@@ -2,7 +2,7 @@
 
 **Autonomous AI agents in production — and the engineers who ship them.**
 
-I build self-directed AI systems and design production platforms as engineer/architect across multiple projects. Founder of **[devs-mentoring](https://devs-mentoring.pl)** — mentorship for developers and AI-engineering consulting for teams moving to agentic workflows. Also: public-goods infrastructure at [Golem Foundation](https://golem.foundation).
+I build self-directed AI systems and design production platforms as engineer/architect across multiple projects. Founder of **[devs-mentoring](https://devs-mentoring.pl)** — mentorship for developers and AI-engineering consulting for teams moving to agentic workflows. Also: public-goods infrastructure at [Golem Foundation](https://golem.foundation) in the past.
 
 ### Selected work
 
