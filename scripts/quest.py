@@ -21,7 +21,7 @@ from pathlib import Path
 USER = "kgarbacinski"
 GOAL = 1000
 MILESTONES = (250, 500, 750)
-REWARD = "at 1000 I open-source the prompt library behind AutoViralAI's 800-like post"
+REWARD = "loot: none. just your avatar in a stranger's README."
 SHOW = 8
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -128,7 +128,7 @@ def render(count, recent, eta_line, today):
         hit = count >= m
         ticks.append(f'<line x1="{mx:.1f}" y1="{by - 6}" x2="{mx:.1f}" y2="{by + bh + 6}" stroke="{AMBER if hit else DIM}" stroke-dasharray="3 3"/>')
         ticks.append(t(mx, by + bh + 22, str(m), AMBER if hit else DIM, 12, anchor="middle"))
-    ticks.append(t(bx + bw, by + bh + 22, f"{GOAL} unlock", GREEN, 12, anchor="end"))
+    ticks.append(t(bx + bw, by + bh + 22, f"{GOAL} done", GREEN, 12, anchor="end"))
 
     gy, r = 236, 26
     gallery = []
