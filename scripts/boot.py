@@ -26,13 +26,13 @@ SESSION = [
     ("cmd", "whoami"),
     ("out", [(0, "kacper garbaciński. builds AI agents that keep working after he closes the laptop.", TEXT)]),
     ("cmd", "uptime"),
-    ("out", [(0, "up 0x0A+ years", TEXT), (18, "0x08 projects shipped", TEXT), (43, "0x01 agent awake right now", GREEN)]),
-    ("cmd", "ps aux | grep agent"),
-    ("out", [(0, "autoviralai", TEXT), (16, "RUNNING", GREEN), (26, "writes posts, measures them, rewrites its own strategy", DIM)]),
-    ("out", [(0, "design-mirror", TEXT), (16, "RUNNING", GREEN), (26, "pulls any site's design DNA into AI-ready prompts", DIM)]),
-    ("out", [(0, "genetic-snake", TEXT), (16, "RETIRED", AMBER), (26, "learned Snake by evolution. peaked. touched grass.", DIM)]),
+    ("out", [(0, "up 0x0A+ years", TEXT), (18, "0x08 projects shipped", TEXT), (43, "0x1B public repos", GREEN)]),
+    ("cmd", "ls -l ~/agents --sort=stars"),
+    ("out", [(0, "autoviralai", TEXT), (16, "★ 41", AMBER), (26, "writes posts, measures them, rewrites its own strategy", DIM)]),
+    ("out", [(0, "genetic-snake", TEXT), (16, "★ 6", AMBER), (26, "learned Snake through evolution. my first agent.", DIM)]),
+    ("out", [(0, "design-mirror", TEXT), (16, "★ 5", AMBER), (26, "pulls any site's design DNA into AI-ready prompts", DIM)]),
     ("cmd", "cat ~/.plan"),
-    ("out", [(0, "1000 followers. the quest bar below is live, and your avatar can be on it.", TEXT)]),
+    ("out", [(0, "agents that run in production, not in demos.", TEXT)]),
 ]
 
 

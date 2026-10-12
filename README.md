@@ -6,7 +6,7 @@
 
 <a href="https://github.com/kgarbacinski"><img src="assets/quest.svg" width="100%" alt="Quest: reach 1000 followers. Progress bar and the newest followers' avatars."></a>
 
-<sub>follow, and your avatar lands in <code>/var/log/followers</code> on the next daily run. the cheapest billboard on GitHub.</sub>
+<sub>follow, and your avatar appears in <code>/var/log/followers</code> on the next daily run.</sub>
 
 </div>
 
@@ -20,9 +20,9 @@ I build self-directed AI systems and design production platforms as engineer/arc
 
 ### `02` git log --oneline selected-work
 
-`a9e1f37` **[AutoViralAI](https://github.com/kgarbacinski/AutoViralAI)**: researches what's going viral, writes, publishes, measures, then rewrites its own strategy from what worked. One post hit 800 likes. The agent wrote it, not me.<br/>
-`7c21d04` **[design-mirror-ai](https://github.com/kgarbacinski/design-mirror-ai)**: extracts any site's design DNA (color, type, spacing, motion) into AI-ready prompts.<br/>
-`0b5e88f` **[genetic-snake](https://github.com/kgarbacinski/genetic-snake-with-neural-networks)**: Snake that learns to play through a genetic algorithm and a from-scratch neural net. My first agent. Still proud.
+`d79b517` **[AutoViralAI](https://github.com/kgarbacinski/AutoViralAI)**: researches what's going viral, writes, publishes, measures, then rewrites its own strategy from what worked. One post hit 800 likes. The agent wrote it, not me.<br/>
+`69b67df` **[design-mirror-ai](https://github.com/kgarbacinski/design-mirror-ai)**: extracts any site's design DNA (color, type, spacing, motion) into AI-ready prompts.<br/>
+`40fe274` **[genetic-snake](https://github.com/kgarbacinski/genetic-snake-with-neural-networks)**: Snake that learns to play through a genetic algorithm and a from-scratch neural net. My first agent, back in 2020.
 
 ### `03` ls ~/devs-mentoring/services
 
@@ -45,4 +45,4 @@ the full story, with a papercraft diorama: **[caspercooks.tech](https://casperco
 
 <br/>
 
-<sub>half of this README is code. the code half rewrites itself every morning: <a href="scripts/quest.py"><code>scripts/quest.py</code></a></sub>
+<sub>part of this README regenerates itself every morning: <a href="scripts/quest.py"><code>scripts/quest.py</code></a></sub>

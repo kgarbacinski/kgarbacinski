@@ -21,7 +21,7 @@ from pathlib import Path
 USER = "kgarbacinski"
 GOAL = 1000
 MILESTONES = (250, 500, 750)
-REWARD = "loot: none. just your avatar in a stranger's README."
+REWARD = "the newest followers are featured below, refreshed daily"
 SHOW = 8
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -96,9 +96,9 @@ def eta(history, count):
     days = (date.fromisoformat(pts[-1][0]) - date.fromisoformat(pts[0][0])).days or 1
     rate = (pts[-1][1] - pts[0][1]) / days
     if rate <= 0:
-        return "ETA: never at this pace. the follow button is right there"
+        return "ETA: not enough growth yet to estimate"
     when = date.fromisoformat(pts[-1][0]) + timedelta(days=(GOAL - count) / rate)
-    return f"ETA: {when:%b %Y} at {rate:.1f}/day. you can make it sooner"
+    return f"ETA: {when:%b %Y} at {rate:.1f}/day"
 
 
 def t(x, y, s, color, size=14, extra="", anchor=None):
@@ -173,7 +173,7 @@ def render(count, recent, eta_line, today):
 {t(28, 184, "$ tail /var/log/followers", GREEN, 13)}
 {t(W - 28, 184, eta_line, DIM, 12, anchor="end")}
 {"".join(gallery)}
-{t(W - 28, H - 14, f"refreshed {today} by a cron job. it is not watching you. mostly.", "#4b5563", 11, anchor="end")}
+{t(W - 28, H - 14, f"refreshed {today} by a GitHub Action", "#4b5563", 11, anchor="end")}
 </svg>
 '''
 
