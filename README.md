@@ -4,9 +4,9 @@
 
 **Autonomous AI agents in production, and the engineers who ship them.**
 
-<a href="https://github.com/kgarbacinski"><img src="assets/quest.svg" width="100%" alt="Quest: reach 1000 followers. Progress bar and the newest followers' avatars."></a>
+<a href="https://github.com/kgarbacinski"><img src="assets/network.svg" width="100%" alt="Engineers following the work: follower count, weekly growth and the newest followers."></a>
 
-<sub>follow, and your avatar appears in <code>/var/log/followers</code> on the next daily run.</sub>
+<sub>new followers appear here on the next daily run.</sub>
 
 </div>
 
@@ -45,4 +45,4 @@ the full story, with a papercraft diorama: **[caspercooks.tech](https://casperco
 
 <br/>
 
-<sub>part of this README regenerates itself every morning: <a href="scripts/quest.py"><code>scripts/quest.py</code></a></sub>
+<sub>part of this README regenerates itself every morning: <a href="scripts/network.py"><code>scripts/network.py</code></a></sub>
