@@ -159,9 +159,39 @@
   "mohcodes01",
   "SHlDOU",
   "codeHarsh-01",
-  "MahdiKordian"
+  "MahdiKordian",
+  "BEPb",
+  "md-abu-kayser",
+  "ManasDasri",
+  "GISWLH",
+  "ZERO-DAWN-X"
  ],
  "recent": [
+  {
+   "login": "BEPb",
+   "id": 57312267,
+   "at": "2026-10-13"
+  },
+  {
+   "login": "md-abu-kayser",
+   "id": 67516307,
+   "at": "2026-10-13"
+  },
+  {
+   "login": "ManasDasri",
+   "id": 89333223,
+   "at": "2026-10-13"
+  },
+  {
+   "login": "GISWLH",
+   "id": 93301293,
+   "at": "2026-10-13"
+  },
+  {
+   "login": "ZERO-DAWN-X",
+   "id": 145671748,
+   "at": "2026-10-13"
+  },
   {
    "login": "copyleftdev",
    "id": 11798,
@@ -175,11 +205,6 @@
   {
    "login": "jorgeguberte",
    "id": 68299,
-   "at": "2026-10-12"
-  },
-  {
-   "login": "nfultz",
-   "id": 418638,
    "at": "2026-10-12"
   },
   {
@@ -204,6 +229,7 @@
   }
  ],
  "history": {
-  "2026-10-12": 160
+  "2026-10-12": 160,
+  "2026-10-13": 164
  }
 }
