@@ -164,9 +164,21 @@
   "md-abu-kayser",
   "ManasDasri",
   "GISWLH",
-  "ZERO-DAWN-X"
+  "ZERO-DAWN-X",
+  "SwatiBGupta1110",
+  "Nathishwar-prog"
  ],
  "recent": [
+  {
+   "login": "SwatiBGupta1110",
+   "id": 89257671,
+   "at": "2026-10-14"
+  },
+  {
+   "login": "Nathishwar-prog",
+   "id": 182191081,
+   "at": "2026-10-14"
+  },
   {
    "login": "BEPb",
    "id": 57312267,
@@ -230,6 +242,7 @@
  ],
  "history": {
   "2026-10-12": 160,
-  "2026-10-13": 164
+  "2026-10-13": 164,
+  "2026-10-14": 166
  }
 }
