@@ -174,9 +174,39 @@
   "rasidi3112",
   "felipebridge",
   "charan-rathore",
-  "AbelTomato"
+  "AbelTomato",
+  "osvaldlaszlo",
+  "ch-z-hc",
+  "gokay-ai",
+  "VishuKalier2003",
+  "Sana-17-Cipher"
  ],
  "recent": [
+  {
+   "login": "osvaldlaszlo",
+   "id": 24758036,
+   "at": "2026-10-16"
+  },
+  {
+   "login": "ch-z-hc",
+   "id": 45302000,
+   "at": "2026-10-16"
+  },
+  {
+   "login": "gokay-ai",
+   "id": 60583610,
+   "at": "2026-10-16"
+  },
+  {
+   "login": "VishuKalier2003",
+   "id": 95927774,
+   "at": "2026-10-16"
+  },
+  {
+   "login": "Sana-17-Cipher",
+   "id": 209093240,
+   "at": "2026-10-16"
+  },
   {
    "login": "kavishkartha05",
    "id": 33845687,
@@ -195,11 +225,6 @@
   {
    "login": "kksingh000",
    "id": 122664891,
-   "at": "2026-10-15"
-  },
-  {
-   "login": "rasidi3112",
-   "id": 129738392,
    "at": "2026-10-15"
   },
   {
@@ -276,22 +301,13 @@
    "login": "Qix-",
    "id": 885648,
    "at": "2026-10-12"
-  },
-  {
-   "login": "mkly",
-   "id": 965353,
-   "at": "2026-10-12"
-  },
-  {
-   "login": "markl-a",
-   "id": 1307502,
-   "at": "2026-10-12"
   }
  ],
  "history": {
   "2026-10-12": 160,
   "2026-10-13": 164,
   "2026-10-14": 166,
-  "2026-10-15": 173
+  "2026-10-15": 173,
+  "2026-10-16": 177
  }
 }
