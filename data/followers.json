@@ -198,9 +198,27 @@
   "CSV2005",
   "archit7py",
   "Dhyanbal",
-  "omarbounawarapy"
+  "omarbounawarapy",
+  "AryanRG",
+  "bitxwolf",
+  "Tong-bit-art"
  ],
  "recent": [
+  {
+   "login": "AryanRG",
+   "id": 51299383,
+   "at": "2026-10-24"
+  },
+  {
+   "login": "bitxwolf",
+   "id": 213859782,
+   "at": "2026-10-24"
+  },
+  {
+   "login": "Tong-bit-art",
+   "id": 239565928,
+   "at": "2026-10-24"
+  },
   {
    "login": "archit7py",
    "id": 165465776,
@@ -305,21 +323,6 @@
    "login": "gokay-ai",
    "id": 60583610,
    "at": "2026-10-16"
-  },
-  {
-   "login": "VishuKalier2003",
-   "id": 95927774,
-   "at": "2026-10-16"
-  },
-  {
-   "login": "Sana-17-Cipher",
-   "id": 209093240,
-   "at": "2026-10-16"
-  },
-  {
-   "login": "kavishkartha05",
-   "id": 33845687,
-   "at": "2026-10-15"
   }
  ],
  "history": {
@@ -334,6 +337,7 @@
   "2026-10-20": 186,
   "2026-10-21": 189,
   "2026-10-22": 190,
-  "2026-10-23": 193
+  "2026-10-23": 193,
+  "2026-10-24": 196
  }
 }
