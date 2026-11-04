@@ -224,9 +224,33 @@
   "Resolutefemi",
   "danofairanks",
   "devlewicki",
-  "Travvissrapidd"
+  "Travvissrapidd",
+  "rafaelbmateus",
+  "aixisstudio",
+  "davissok",
+  "Yadeesht"
  ],
  "recent": [
+  {
+   "login": "rafaelbmateus",
+   "id": 8009492,
+   "at": "2026-11-04"
+  },
+  {
+   "login": "aixisstudio",
+   "id": 45413729,
+   "at": "2026-11-04"
+  },
+  {
+   "login": "davissok",
+   "id": 112785670,
+   "at": "2026-11-04"
+  },
+  {
+   "login": "Yadeesht",
+   "id": 154341576,
+   "at": "2026-11-04"
+  },
   {
    "login": "ssghost",
    "id": 6882971,
@@ -326,26 +350,6 @@
    "login": "alexhraber",
    "id": 29316054,
    "at": "2026-10-25"
-  },
-  {
-   "login": "zerokali20",
-   "id": 166894844,
-   "at": "2026-10-25"
-  },
-  {
-   "login": "AryanRG",
-   "id": 51299383,
-   "at": "2026-10-24"
-  },
-  {
-   "login": "bitxwolf",
-   "id": 213859782,
-   "at": "2026-10-24"
-  },
-  {
-   "login": "archit7py",
-   "id": 165465776,
-   "at": "2026-10-23"
   }
  ],
  "history": {
@@ -371,6 +375,7 @@
   "2026-10-31": 202,
   "2026-11-01": 202,
   "2026-11-02": 203,
-  "2026-11-03": 211
+  "2026-11-03": 211,
+  "2026-11-04": 214
  }
 }
