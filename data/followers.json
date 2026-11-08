@@ -231,9 +231,51 @@
   "Yadeesht",
   "cse-afsal",
   "Elizabeth-star-tech",
-  "ai-agent-orchestrator"
+  "ai-agent-orchestrator",
+  "odometer112",
+  "CharmingGroot",
+  "bahattinyunus",
+  "Abduraxmonnn",
+  "MathematicalStatistics",
+  "surlymochan",
+  "harryfisher18"
  ],
  "recent": [
+  {
+   "login": "odometer112",
+   "id": 56193834,
+   "at": "2026-11-08"
+  },
+  {
+   "login": "CharmingGroot",
+   "id": 70020572,
+   "at": "2026-11-08"
+  },
+  {
+   "login": "bahattinyunus",
+   "id": 83650878,
+   "at": "2026-11-08"
+  },
+  {
+   "login": "Abduraxmonnn",
+   "id": 90904737,
+   "at": "2026-11-08"
+  },
+  {
+   "login": "MathematicalStatistics",
+   "id": 174292624,
+   "at": "2026-11-08"
+  },
+  {
+   "login": "surlymochan",
+   "id": 209239467,
+   "at": "2026-11-08"
+  },
+  {
+   "login": "harryfisher18",
+   "id": 350019139,
+   "at": "2026-11-08"
+  },
   {
    "login": "ai-agent-orchestrator",
    "id": 309971129,
@@ -252,11 +294,6 @@
   {
    "login": "rafaelbmateus",
    "id": 8009492,
-   "at": "2026-11-04"
-  },
-  {
-   "login": "aixisstudio",
-   "id": 45413729,
    "at": "2026-11-04"
   },
   {
@@ -323,36 +360,6 @@
    "login": "henry8k",
    "id": 234062852,
    "at": "2026-11-01"
-  },
-  {
-   "login": "matigulin",
-   "id": 234398592,
-   "at": "2026-10-31"
-  },
-  {
-   "login": "veendysuseno",
-   "id": 41382844,
-   "at": "2026-10-29"
-  },
-  {
-   "login": "kkting2",
-   "id": 274658370,
-   "at": "2026-10-29"
-  },
-  {
-   "login": "eerrgin",
-   "id": 289816824,
-   "at": "2026-10-29"
-  },
-  {
-   "login": "anh-nguyenn",
-   "id": 92361793,
-   "at": "2026-10-28"
-  },
-  {
-   "login": "Aryan9891",
-   "id": 191693640,
-   "at": "2026-10-28"
   }
  ],
  "history": {
@@ -382,6 +389,7 @@
   "2026-11-04": 214,
   "2026-11-05": 216,
   "2026-11-06": 217,
-  "2026-11-07": 217
+  "2026-11-07": 217,
+  "2026-11-08": 223
  }
 }
