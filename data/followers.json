@@ -238,9 +238,27 @@
   "Abduraxmonnn",
   "MathematicalStatistics",
   "surlymochan",
-  "harryfisher18"
+  "harryfisher18",
+  "ghazy2001",
+  "RichVillain",
+  "Git-FED"
  ],
  "recent": [
+  {
+   "login": "ghazy2001",
+   "id": 68187836,
+   "at": "2026-11-09"
+  },
+  {
+   "login": "RichVillain",
+   "id": 188762064,
+   "at": "2026-11-09"
+  },
+  {
+   "login": "Git-FED",
+   "id": 309251726,
+   "at": "2026-11-09"
+  },
   {
    "login": "odometer112",
    "id": 56193834,
@@ -264,11 +282,6 @@
   {
    "login": "MathematicalStatistics",
    "id": 174292624,
-   "at": "2026-11-08"
-  },
-  {
-   "login": "surlymochan",
-   "id": 209239467,
    "at": "2026-11-08"
   },
   {
@@ -350,16 +363,6 @@
    "login": "Travvissrapidd",
    "id": 314823968,
    "at": "2026-11-03"
-  },
-  {
-   "login": "soheilghanbary",
-   "id": 98669021,
-   "at": "2026-11-02"
-  },
-  {
-   "login": "henry8k",
-   "id": 234062852,
-   "at": "2026-11-01"
   }
  ],
  "history": {
@@ -390,6 +393,7 @@
   "2026-11-05": 216,
   "2026-11-06": 217,
   "2026-11-07": 217,
-  "2026-11-08": 223
+  "2026-11-08": 223,
+  "2026-11-09": 225
  }
 }
