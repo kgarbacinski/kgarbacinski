@@ -241,9 +241,27 @@
   "harryfisher18",
   "ghazy2001",
   "RichVillain",
-  "Git-FED"
+  "Git-FED",
+  "haikaly89",
+  "allannuwamanya",
+  "kozlowska-anna"
  ],
  "recent": [
+  {
+   "login": "haikaly89",
+   "id": 146849185,
+   "at": "2026-11-10"
+  },
+  {
+   "login": "allannuwamanya",
+   "id": 262063102,
+   "at": "2026-11-10"
+  },
+  {
+   "login": "kozlowska-anna",
+   "id": 342168094,
+   "at": "2026-11-10"
+  },
   {
    "login": "ghazy2001",
    "id": 68187836,
@@ -348,21 +366,6 @@
    "login": "Resolutefemi",
    "id": 198766034,
    "at": "2026-11-03"
-  },
-  {
-   "login": "danofairanks",
-   "id": 243649860,
-   "at": "2026-11-03"
-  },
-  {
-   "login": "devlewicki",
-   "id": 268264497,
-   "at": "2026-11-03"
-  },
-  {
-   "login": "Travvissrapidd",
-   "id": 314823968,
-   "at": "2026-11-03"
   }
  ],
  "history": {
@@ -394,6 +397,7 @@
   "2026-11-06": 217,
   "2026-11-07": 217,
   "2026-11-08": 223,
-  "2026-11-09": 225
+  "2026-11-09": 225,
+  "2026-11-10": 227
  }
 }
