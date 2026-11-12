@@ -247,9 +247,15 @@
   "kozlowska-anna",
   "user-Param",
   "0xmattyic333",
-  "coffetobug"
+  "coffetobug",
+  "VaultSovereign"
  ],
  "recent": [
+  {
+   "login": "VaultSovereign",
+   "id": 213047129,
+   "at": "2026-11-12"
+  },
   {
    "login": "user-Param",
    "id": 207553080,
@@ -364,11 +370,6 @@
    "login": "Kurganov1993",
    "id": 148395751,
    "at": "2026-11-03"
-  },
-  {
-   "login": "Ayoola-tech2024",
-   "id": 184630698,
-   "at": "2026-11-03"
   }
  ],
  "history": {
@@ -402,6 +403,7 @@
   "2026-11-08": 223,
   "2026-11-09": 225,
   "2026-11-10": 227,
-  "2026-11-11": 228
+  "2026-11-11": 228,
+  "2026-11-12": 228
  }
 }
