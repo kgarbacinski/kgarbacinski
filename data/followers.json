@@ -248,9 +248,21 @@
   "user-Param",
   "0xmattyic333",
   "coffetobug",
-  "VaultSovereign"
+  "VaultSovereign",
+  "Davidst230404",
+  "stlynnxx"
  ],
  "recent": [
+  {
+   "login": "Davidst230404",
+   "id": 209114002,
+   "at": "2026-11-13"
+  },
+  {
+   "login": "stlynnxx",
+   "id": 252948088,
+   "at": "2026-11-13"
+  },
   {
    "login": "VaultSovereign",
    "id": 213047129,
@@ -360,16 +372,6 @@
    "login": "Yadeesht",
    "id": 154341576,
    "at": "2026-11-04"
-  },
-  {
-   "login": "ssghost",
-   "id": 6882971,
-   "at": "2026-11-03"
-  },
-  {
-   "login": "Kurganov1993",
-   "id": 148395751,
-   "at": "2026-11-03"
   }
  ],
  "history": {
@@ -404,6 +406,7 @@
   "2026-11-09": 225,
   "2026-11-10": 227,
   "2026-11-11": 228,
-  "2026-11-12": 228
+  "2026-11-12": 228,
+  "2026-11-13": 231
  }
 }
