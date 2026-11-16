@@ -252,9 +252,33 @@
   "Davidst230404",
   "stlynnxx",
   "adriannoes",
-  "alhosseinjr"
+  "alhosseinjr",
+  "GregoryBolshakov",
+  "burrows99",
+  "Sharathvc23",
+  "RajGahoi"
  ],
  "recent": [
+  {
+   "login": "GregoryBolshakov",
+   "id": 19948668,
+   "at": "2026-11-16"
+  },
+  {
+   "login": "burrows99",
+   "id": 69508267,
+   "at": "2026-11-16"
+  },
+  {
+   "login": "Sharathvc23",
+   "id": 177432131,
+   "at": "2026-11-16"
+  },
+  {
+   "login": "RajGahoi",
+   "id": 191273099,
+   "at": "2026-11-16"
+  },
   {
    "login": "adriannoes",
    "id": 10134911,
@@ -354,26 +378,6 @@
    "login": "harryfisher18",
    "id": 350019139,
    "at": "2026-11-08"
-  },
-  {
-   "login": "ai-agent-orchestrator",
-   "id": 309971129,
-   "at": "2026-11-06"
-  },
-  {
-   "login": "cse-afsal",
-   "id": 210846797,
-   "at": "2026-11-05"
-  },
-  {
-   "login": "Elizabeth-star-tech",
-   "id": 222967392,
-   "at": "2026-11-05"
-  },
-  {
-   "login": "davissok",
-   "id": 112785670,
-   "at": "2026-11-04"
   }
  ],
  "history": {
@@ -410,6 +414,7 @@
   "2026-11-11": 228,
   "2026-11-12": 228,
   "2026-11-13": 231,
-  "2026-11-15": 228
+  "2026-11-15": 228,
+  "2026-11-16": 231
  }
 }
