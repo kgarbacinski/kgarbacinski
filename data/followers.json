@@ -256,9 +256,21 @@
   "GregoryBolshakov",
   "burrows99",
   "Sharathvc23",
-  "RajGahoi"
+  "RajGahoi",
+  "V-CodeSmith",
+  "cooldev227"
  ],
  "recent": [
+  {
+   "login": "V-CodeSmith",
+   "id": 122223080,
+   "at": "2026-11-17"
+  },
+  {
+   "login": "cooldev227",
+   "id": 327932079,
+   "at": "2026-11-17"
+  },
   {
    "login": "GregoryBolshakov",
    "id": 19948668,
@@ -320,11 +332,6 @@
    "at": "2026-11-11"
   },
   {
-   "login": "haikaly89",
-   "id": 146849185,
-   "at": "2026-11-10"
-  },
-  {
    "login": "allannuwamanya",
    "id": 262063102,
    "at": "2026-11-10"
@@ -373,11 +380,6 @@
    "login": "MathematicalStatistics",
    "id": 174292624,
    "at": "2026-11-08"
-  },
-  {
-   "login": "harryfisher18",
-   "id": 350019139,
-   "at": "2026-11-08"
   }
  ],
  "history": {
@@ -415,6 +417,7 @@
   "2026-11-12": 228,
   "2026-11-13": 231,
   "2026-11-15": 228,
-  "2026-11-16": 231
+  "2026-11-16": 231,
+  "2026-11-17": 232
  }
 }
