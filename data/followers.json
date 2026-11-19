@@ -261,9 +261,21 @@
   "cooldev227",
   "gubidonius",
   "SAPTARSHI-coder",
-  "buraksocial"
+  "buraksocial",
+  "giovanniclima",
+  "Sadra138456"
  ],
  "recent": [
+  {
+   "login": "giovanniclima",
+   "id": 72337417,
+   "at": "2026-11-19"
+  },
+  {
+   "login": "Sadra138456",
+   "id": 162758424,
+   "at": "2026-11-19"
+  },
   {
    "login": "gubidonius",
    "id": 19948668,
@@ -373,16 +385,6 @@
    "login": "CharmingGroot",
    "id": 70020572,
    "at": "2026-11-08"
-  },
-  {
-   "login": "bahattinyunus",
-   "id": 83650878,
-   "at": "2026-11-08"
-  },
-  {
-   "login": "Abduraxmonnn",
-   "id": 90904737,
-   "at": "2026-11-08"
   }
  ],
  "history": {
@@ -422,6 +424,7 @@
   "2026-11-15": 228,
   "2026-11-16": 231,
   "2026-11-17": 232,
-  "2026-11-18": 233
+  "2026-11-18": 233,
+  "2026-11-19": 234
  }
 }
