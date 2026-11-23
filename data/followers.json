@@ -270,9 +270,33 @@
   "cinic",
   "Mart22052006",
   "codexfang",
-  "thinkingdev923"
+  "thinkingdev923",
+  "MiladJoodi",
+  "EdwardGlockner",
+  "sohailshk",
+  "Mayveskii"
  ],
  "recent": [
+  {
+   "login": "MiladJoodi",
+   "id": 43522323,
+   "at": "2026-11-23"
+  },
+  {
+   "login": "EdwardGlockner",
+   "id": 101050443,
+   "at": "2026-11-23"
+  },
+  {
+   "login": "sohailshk",
+   "id": 122166523,
+   "at": "2026-11-23"
+  },
+  {
+   "login": "Mayveskii",
+   "id": 223242119,
+   "at": "2026-11-23"
+  },
   {
    "login": "codexfang",
    "id": 197433381,
@@ -372,26 +396,6 @@
    "login": "user-Param",
    "id": 207553080,
    "at": "2026-11-11"
-  },
-  {
-   "login": "0xmattyic333",
-   "id": 252016124,
-   "at": "2026-11-11"
-  },
-  {
-   "login": "coffetobug",
-   "id": 280770154,
-   "at": "2026-11-11"
-  },
-  {
-   "login": "allannuwamanya",
-   "id": 262063102,
-   "at": "2026-11-10"
-  },
-  {
-   "login": "kozlowska-anna",
-   "id": 342168094,
-   "at": "2026-11-10"
   }
  ],
  "history": {
@@ -435,6 +439,7 @@
   "2026-11-19": 234,
   "2026-11-20": 235,
   "2026-11-21": 235,
-  "2026-11-22": 237
+  "2026-11-22": 237,
+  "2026-11-23": 238
  }
 }
