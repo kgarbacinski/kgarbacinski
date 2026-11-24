@@ -274,9 +274,15 @@
   "MiladJoodi",
   "EdwardGlockner",
   "sohailshk",
-  "Mayveskii"
+  "Mayveskii",
+  "jeffersongoncalves"
  ],
  "recent": [
+  {
+   "login": "jeffersongoncalves",
+   "id": 411493,
+   "at": "2026-11-24"
+  },
   {
    "login": "MiladJoodi",
    "id": 43522323,
@@ -296,11 +302,6 @@
    "login": "Mayveskii",
    "id": 223242119,
    "at": "2026-11-23"
-  },
-  {
-   "login": "codexfang",
-   "id": 197433381,
-   "at": "2026-11-22"
   },
   {
    "login": "thinkingdev923",
@@ -440,6 +441,7 @@
   "2026-11-20": 235,
   "2026-11-21": 235,
   "2026-11-22": 237,
-  "2026-11-23": 238
+  "2026-11-23": 238,
+  "2026-11-24": 237
  }
 }
