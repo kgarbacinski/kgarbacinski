@@ -275,9 +275,15 @@
   "EdwardGlockner",
   "sohailshk",
   "Mayveskii",
-  "jeffersongoncalves"
+  "jeffersongoncalves",
+  "Nai64"
  ],
  "recent": [
+  {
+   "login": "Nai64",
+   "id": 122532548,
+   "at": "2026-11-25"
+  },
   {
    "login": "jeffersongoncalves",
    "id": 411493,
@@ -392,11 +398,6 @@
    "login": "VaultSovereign",
    "id": 213047129,
    "at": "2026-11-12"
-  },
-  {
-   "login": "user-Param",
-   "id": 207553080,
-   "at": "2026-11-11"
   }
  ],
  "history": {
@@ -442,6 +443,7 @@
   "2026-11-21": 235,
   "2026-11-22": 237,
   "2026-11-23": 238,
-  "2026-11-24": 237
+  "2026-11-24": 237,
+  "2026-11-25": 238
  }
 }
