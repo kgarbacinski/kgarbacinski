@@ -278,9 +278,27 @@
   "jeffersongoncalves",
   "Nai64",
   "adlanehzx",
-  "inii-sayaa"
+  "inii-sayaa",
+  "chaitanya0305",
+  "maciejpostek",
+  "Ninjax26"
  ],
  "recent": [
+  {
+   "login": "chaitanya0305",
+   "id": 111008956,
+   "at": "2026-11-27"
+  },
+  {
+   "login": "maciejpostek",
+   "id": 127340168,
+   "at": "2026-11-27"
+  },
+  {
+   "login": "Ninjax26",
+   "id": 179691926,
+   "at": "2026-11-27"
+  },
   {
    "login": "adlanehzx",
    "id": 123164630,
@@ -337,11 +355,6 @@
    "at": "2026-11-21"
   },
   {
-   "login": "syed-ghufran-hassan",
-   "id": 20126545,
-   "at": "2026-11-20"
-  },
-  {
    "login": "karthik-0306",
    "id": 180341945,
    "at": "2026-11-20"
@@ -390,16 +403,6 @@
    "login": "Sharathvc23",
    "id": 177432131,
    "at": "2026-11-16"
-  },
-  {
-   "login": "adriannoes",
-   "id": 10134911,
-   "at": "2026-11-15"
-  },
-  {
-   "login": "alhosseinjr",
-   "id": 118173348,
-   "at": "2026-11-15"
   }
  ],
  "history": {
@@ -447,6 +450,7 @@
   "2026-11-23": 238,
   "2026-11-24": 237,
   "2026-11-25": 238,
-  "2026-11-26": 240
+  "2026-11-26": 240,
+  "2026-11-27": 239
  }
 }
