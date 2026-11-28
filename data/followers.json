@@ -281,9 +281,33 @@
   "inii-sayaa",
   "chaitanya0305",
   "maciejpostek",
-  "Ninjax26"
+  "Ninjax26",
+  "sugatoray",
+  "dansonofbass",
+  "miguelestradam3",
+  "imsoroban"
  ],
  "recent": [
+  {
+   "login": "sugatoray",
+   "id": 10201242,
+   "at": "2026-11-28"
+  },
+  {
+   "login": "dansonofbass",
+   "id": 194174569,
+   "at": "2026-11-28"
+  },
+  {
+   "login": "miguelestradam3",
+   "id": 212426258,
+   "at": "2026-11-28"
+  },
+  {
+   "login": "imsoroban",
+   "id": 247510551,
+   "at": "2026-11-28"
+  },
   {
    "login": "chaitanya0305",
    "id": 111008956,
@@ -345,11 +369,6 @@
    "at": "2026-11-22"
   },
   {
-   "login": "cinic",
-   "id": 67061,
-   "at": "2026-11-21"
-  },
-  {
    "login": "Mart22052006",
    "id": 157504417,
    "at": "2026-11-21"
@@ -388,21 +407,6 @@
    "login": "buraksocial",
    "id": 215418076,
    "at": "2026-11-18"
-  },
-  {
-   "login": "V-CodeSmith",
-   "id": 122223080,
-   "at": "2026-11-17"
-  },
-  {
-   "login": "burrows99",
-   "id": 69508267,
-   "at": "2026-11-16"
-  },
-  {
-   "login": "Sharathvc23",
-   "id": 177432131,
-   "at": "2026-11-16"
   }
  ],
  "history": {
@@ -451,6 +455,7 @@
   "2026-11-24": 237,
   "2026-11-25": 238,
   "2026-11-26": 240,
-  "2026-11-27": 239
+  "2026-11-27": 239,
+  "2026-11-28": 242
  }
 }
